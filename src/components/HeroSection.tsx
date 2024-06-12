@@ -27,7 +27,7 @@ export default function HeroSection() {
                 size={"lg"}
                 variant={"outline"}
               >
-                <a href="https://github.com/Xeven777/">
+                <a href="https://github.com/Xeven777/vite-shadcn-template">
                   Github <GithubIcon size={20} className="ml-2" />
                 </a>
               </Button>
